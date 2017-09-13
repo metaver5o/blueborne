@@ -3,7 +3,7 @@
 however, we are working hard on it <br>
 so please dont open issues expecting this would to do the job for you <br>
 keep in mind we are really interested in make this exploit available <br>
-<b>PRs are mostly welcomed</br>, as well helpful insights <br>
+<b>PRs are mostly welcomed</b>, as well helpful insights <br>
 
 Thanks @johndpope for your help on android under docker.<br>
 It will help us a lot in this development. <br>
