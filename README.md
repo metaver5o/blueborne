@@ -1,4 +1,4 @@
-# this is not working yet
+# this is not functional yet
 
 however, we are working hard on it <br>
 so please dont open issues expecting this would to do the job for you <br>
