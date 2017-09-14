@@ -1,7 +1,7 @@
 # this is not functional yet
 
 however, we are working hard on it <br>
-so please dont open issues expecting this to the job for you <br>
+so please dont open issues expecting this to do the job for you <br>
 keep in mind we are really interested in make this exploit available <br>
 <b>PRs are mostly welcomed</b>, as well helpful insights <br>
 
