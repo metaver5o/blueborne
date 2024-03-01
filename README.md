@@ -1,3 +1,6 @@
+The dangers of Bluetooth implementations: Unveiling zero day
+vulnerabilities and security flaws in modern Bluetooth stacks.
+
 # this is not functional yet
 
 however, we are working hard on it <br>
